@@ -10,33 +10,20 @@ In this assignment we are given code to clean up and make sure that it is segmen
 
 There should be no instillation involved. The link provided should take you straight to the webpage created on default web browser
 
-[I'm an inline-style link](https://www.google.com)
+[I am a link to the web page](https://cheetboy159.github.io/code-refactor/)
 
 
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+If you follow the provided link in the installation section, it will take straight to the Horiseon site. The links in the navigation section will take you to the linked sections towards the lower portion of the page. There, you will find more information on these criteria's. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax
-
-
-![](code-refactor\assets\full-page-img.png)
-
-
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+![](assets\full-page-img.png)
 
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+These files don't have a license and are there to fully share.
 
 
 ---
