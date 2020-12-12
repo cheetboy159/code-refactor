@@ -1,0 +1,128 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* Header grid layout */
+header{
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+    width:100%;    
+}
+/* Horiseon font size */
+h1 { 
+    display:inline-block;
+    font-size: 48px; 
+}
+/* Seo text color */
+span {
+     color: #c3ccb9;
+}
+/* nav list float location right */
+ul{
+    float: right;
+}
+/* nav list layout */
+li{ 
+    padding-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style: none;
+    display: inline-block;    
+}
+/* nav links layout */
+a{
+    text-decoration: none;
+    padding-right: 20px;
+    color: white;
+    font-size: 20px;
+}
+/*body color*/
+body {
+    background-color: #d9dcd6;
+}
+/*Digital marketing meeting image*/
+figure {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../assets/images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+/* sections grid layout */
+section{
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color:#ffffff;
+    display: block;
+    margin-right: 10px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    width: 75%;
+}
+/* section img float location, height and padding */
+.online-reputation-management img{
+    float:right;
+    padding-left: 25px;
+    max-height: 200px;
+}
+/* section img float location, height and padding */
+.search-engine-optimization img, .social-media-marketing img{
+    margin-right: 25px;
+     float:left;
+     max-height: 200px;
+}
+/* section font and margin */
+.online-reputation-management h1, .search-engine-optimization h1, .social-media-marketing h1{
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+/* aside grid layout */
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    color: white;
+}
+/* heders text location center */
+aside, div, h3{
+    text-align: center;
+}
+/* p text location */
+aside, div, p{
+    text-align: left;
+}
+/* aside dive paddings */
+aside, div{
+    padding-bottom: 30px;
+}
+/* aside img layout */
+aside img{
+    display:block;
+    box-sizing: border-box;
+    max-width: 150px;
+    margin: 10px auto;
+    margin-bottom: 10px 3px;
+    color: #ffffff;
+}
+/* footer grid layout */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+/* footer text location */
+footer p{
+    text-align: center;
+}
